@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS locations;
+
+CREATE TABLE if NOT EXISTS locations (
+    id BIGINT PRIMARY KEY,
+    region_name VARCHAR(300) DEFAULT 'Unknown',
+    lat DOUBLE PRECISION,
+    lng DOUBLE PRECISION
+);
