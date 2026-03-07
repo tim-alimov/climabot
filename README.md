@@ -189,7 +189,7 @@ DATABASE_URL=postgresql://user:password@localhost:5432/database
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/climabot.git
+git clone https://github.com/tim-alimov/climabot.git
 cd climabot
 ```
 
