@@ -12,5 +12,5 @@ __pycache__/
 # IDEs and Editors
 .vscode/
 
-# OS Generated Files (Useful if you or someone else uses a Mac)
+# OS Generated Files
 .DS_Store
